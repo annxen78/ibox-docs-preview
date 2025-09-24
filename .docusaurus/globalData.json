@@ -1,0 +1,67 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "overview/product-overview",
+          "docs": [
+            {
+              "id": "editorial-policy",
+              "path": "/docs/editorial-policy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/faq",
+              "path": "/docs/faq/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            },
+            {
+              "id": "knowledge/knowledge",
+              "path": "/docs/knowledge/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/product-overview",
+              "path": "/docs/overview/product-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partners/partners-guide",
+              "path": "/docs/partners/partners-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quick-start/quick-start",
+              "path": "/docs/quick-start/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wiki-style",
+              "path": "/docs/wiki-style",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/overview/product-overview",
+                "label": "overview/product-overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
