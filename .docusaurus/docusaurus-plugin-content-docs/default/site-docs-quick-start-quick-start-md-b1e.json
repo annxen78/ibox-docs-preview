@@ -1,7 +1,7 @@
 {
   "id": "quick-start/quick-start",
   "title": "Быстрый старт",
-  "description": "Гайд по подключению и запуску iBox.",
+  "description": "Что нужно знать перед началом работы",
   "source": "@site/docs/quick-start/quick-start.md",
   "sourceDirName": "quick-start",
   "slug": "/quick-start/",
@@ -15,16 +15,16 @@
   "frontMatter": {
     "id": "quick-start",
     "title": "Быстрый старт",
-    "sidebar_label": "Быстрый старт",
+    "sidebar_label": "Введение",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Обзор продукта",
+    "title": "О системе iBOX",
     "permalink": "/docs/overview/product-overview"
   },
   "next": {
-    "title": "База знаний",
-    "permalink": "/docs/knowledge/"
+    "title": "Часть 1: Регистрация",
+    "permalink": "/docs/quick-start/part1-registration"
   }
 }

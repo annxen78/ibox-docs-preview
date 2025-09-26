@@ -1,7 +1,7 @@
 ---
 id: partners-guide
 title: Для партнеров и интеграторов
-sidebar_label: Партнерам и интеграторам
+sidebar_label: Материалы для внедрения iBox
 sidebar_position: 5
 ---
 

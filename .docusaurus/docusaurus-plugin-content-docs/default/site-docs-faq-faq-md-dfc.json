@@ -1,7 +1,7 @@
 {
   "id": "faq/faq",
   "title": "Часто задаваемые вопросы",
-  "description": "Ответы на частые вопросы пользователей.",
+  "description": "Здесь вы найдете быстрые решения и ответы на вопросы по работе с системой.",
   "source": "@site/docs/faq/faq.md",
   "sourceDirName": "faq",
   "slug": "/faq/",
@@ -15,16 +15,16 @@
   "frontMatter": {
     "id": "faq",
     "title": "Часто задаваемые вопросы",
-    "sidebar_label": "FAQ",
+    "sidebar_label": "Ответы на вопросы пользователей",
     "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "База знаний",
+    "title": "Инструкции по работе с системой",
     "permalink": "/docs/knowledge/"
   },
   "next": {
-    "title": "Партнерам и интеграторам",
+    "title": "Материалы для внедрения iBox",
     "permalink": "/docs/partners/partners-guide"
   }
 }

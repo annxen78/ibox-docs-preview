@@ -256,17 +256,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-52f": {
+  "/docs-2fc": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-e18": {
+  "/docs-d05": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-c0e": {
+  "/docs-589": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -296,6 +296,18 @@
   "/docs/quick-start/-eec": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-quick-start-b-1-e-ab8"
+  },
+  "/docs/quick-start/part1-registration-b35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-1-registration-6-a-7-a71"
+  },
+  "/docs/quick-start/part2-setup-380": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-2-setupfff-906"
+  },
+  "/docs/quick-start/part3-finance-5b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quick-start-part-3-financeef-5-0ca"
   },
   "/docs/wiki-style-045": {
     "__comp": "__comp---theme-doc-item-178-a40",

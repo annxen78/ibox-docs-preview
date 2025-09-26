@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '52f'),
+    component: ComponentCreator('/docs', '2fc'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e18'),
+        component: ComponentCreator('/docs', 'd05'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c0e'),
+            component: ComponentCreator('/docs', '589'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -167,6 +167,24 @@ export default [
               {
                 path: '/docs/quick-start/',
                 component: ComponentCreator('/docs/quick-start/', 'eec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/quick-start/part1-registration',
+                component: ComponentCreator('/docs/quick-start/part1-registration', 'b35'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/quick-start/part2-setup',
+                component: ComponentCreator('/docs/quick-start/part2-setup', '380'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/quick-start/part3-finance',
+                component: ComponentCreator('/docs/quick-start/part3-finance', '5b6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

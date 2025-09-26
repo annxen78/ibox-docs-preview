@@ -1,7 +1,7 @@
 ---
 id: product-overview
 title: Обзор продукта
-sidebar_label: Обзор продукта
+sidebar_label: О системе iBOX
 sidebar_position: 1
 ---
 

@@ -40,6 +40,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "quick-start/part1-registration",
+              "path": "/docs/quick-start/part1-registration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quick-start/part2-setup",
+              "path": "/docs/quick-start/part2-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quick-start/part3-finance",
+              "path": "/docs/quick-start/part3-finance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "quick-start/quick-start",
               "path": "/docs/quick-start/",
               "sidebar": "tutorialSidebar"

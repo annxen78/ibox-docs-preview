@@ -11,7 +11,12 @@ module.exports = {
     {
       type: 'category',
       label: '2. Быстрый старт',
-      items: ['quick-start/quick-start'],
+      items: [
+        'quick-start/quick-start',
+        'quick-start/part1-registration',
+        'quick-start/part2-setup',
+        'quick-start/part3-finance',
+      ],
     },
     {
       type: 'category',
@@ -30,7 +35,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: '6. Для авторов (вики)',
+      label: '6. Для авторов',
       items: [
         'editorial-policy',
         'wiki-style',

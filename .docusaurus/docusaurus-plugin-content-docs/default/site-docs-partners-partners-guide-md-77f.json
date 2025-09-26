@@ -15,12 +15,12 @@
   "frontMatter": {
     "id": "partners-guide",
     "title": "Для партнеров и интеграторов",
-    "sidebar_label": "Партнерам и интеграторам",
+    "sidebar_label": "Материалы для внедрения iBox",
     "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "FAQ",
+    "title": "Ответы на вопросы пользователей",
     "permalink": "/docs/faq/"
   },
   "next": {

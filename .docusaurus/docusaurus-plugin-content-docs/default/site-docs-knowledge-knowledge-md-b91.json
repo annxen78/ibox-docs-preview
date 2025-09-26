@@ -15,16 +15,16 @@
   "frontMatter": {
     "id": "knowledge",
     "title": "База знаний",
-    "sidebar_label": "База знаний",
+    "sidebar_label": "Инструкции по работе с системой",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Быстрый старт",
-    "permalink": "/docs/quick-start/"
+    "title": "Часть 3: Финансы",
+    "permalink": "/docs/quick-start/part3-finance"
   },
   "next": {
-    "title": "FAQ",
+    "title": "Ответы на вопросы пользователей",
     "permalink": "/docs/faq/"
   }
 }

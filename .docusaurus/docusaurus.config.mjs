@@ -75,8 +75,8 @@ export default {
     "navbar": {
       "title": "Главная",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Логотип iBOX",
+        "src": "img/logo.png"
       },
       "items": [
         {

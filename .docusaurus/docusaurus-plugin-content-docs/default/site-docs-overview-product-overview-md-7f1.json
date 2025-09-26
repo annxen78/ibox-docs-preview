@@ -15,12 +15,12 @@
   "frontMatter": {
     "id": "product-overview",
     "title": "Обзор продукта",
-    "sidebar_label": "Обзор продукта",
+    "sidebar_label": "О системе iBOX",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Быстрый старт",
+    "title": "Введение",
     "permalink": "/docs/quick-start/"
   }
 }
