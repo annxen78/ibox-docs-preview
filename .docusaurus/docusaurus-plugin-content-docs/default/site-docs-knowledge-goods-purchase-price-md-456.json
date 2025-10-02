@@ -1,0 +1,15 @@
+{
+  "id": "knowledge/goods/purchase_price",
+  "title": "purchase_price",
+  "description": "",
+  "source": "@site/docs/knowledge/goods/purchase_price.md",
+  "sourceDirName": "knowledge/goods",
+  "slug": "/knowledge/goods/purchase_price",
+  "permalink": "/docs/knowledge/goods/purchase_price",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/goods/purchase_price.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

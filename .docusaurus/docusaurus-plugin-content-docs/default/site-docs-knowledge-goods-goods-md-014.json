@@ -1,0 +1,30 @@
+{
+  "id": "knowledge/goods/goods",
+  "title": "Товары и цены",
+  "description": "В этом разделе вы узнаете, как правильно добавлять товары в систему, учитывать закупочные цены, генерировать штрихкоды и работать с партийным учетом.",
+  "source": "@site/docs/knowledge/goods/goods.md",
+  "sourceDirName": "knowledge/goods",
+  "slug": "/knowledge/goods/",
+  "permalink": "/docs/knowledge/goods/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/goods/goods.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "goods",
+    "title": "Товары и цены",
+    "sidebar_label": "Работа с товарами и ценами в iBOX",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Как ограничить доступ сотруднику",
+    "permalink": "/docs/knowledge/access/access-change"
+  },
+  "next": {
+    "title": "Добавление товара",
+    "permalink": "/docs/knowledge/goods/goods-add"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "knowledge/data.md/data-security",
+  "title": "Безопасность данных",
+  "description": "Все данные в iBox хранятся и обрабатываются в облаке — на серверах DigitalOcean в Германии.",
+  "source": "@site/docs/knowledge/data.md/data-security.md",
+  "sourceDirName": "knowledge/data.md",
+  "slug": "/knowledge/data.md/data-security",
+  "permalink": "/docs/knowledge/data.md/data-security",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/data.md/data-security.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "data-security",
+    "title": "Безопасность данных",
+    "sidebar_label": "Где хранятся данные в iBOX",
+    "sidebar_position": 4
+  }
+}

@@ -256,17 +256,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-2fc": {
+  "/docs-ec3": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-d05": {
+  "/docs-384": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-589": {
+  "/docs-bdf": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -284,6 +284,90 @@
   "/docs/knowledge/-d37": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-b-91-0b4"
+  },
+  "/docs/knowledge/access/-e15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-59-f-957"
+  },
+  "/docs/knowledge/access/access-change-814": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-change-9-c-1-da4"
+  },
+  "/docs/knowledge/access/access-role-eb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-role-8-de-a96"
+  },
+  "/docs/knowledge/access/access-team-5c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-team-998-199"
+  },
+  "/docs/knowledge/access/access-workplace-c2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-access-access-workplace-25-c-a02"
+  },
+  "/docs/knowledge/data/data-access-4f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-data-data-access-9-a-6-667"
+  },
+  "/docs/knowledge/data/data-security-968": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-data-data-security-6-dc-523"
+  },
+  "/docs/knowledge/goods/-23f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-014-8c8"
+  },
+  "/docs/knowledge/goods/barcode-244": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-barcode-681-bfa"
+  },
+  "/docs/knowledge/goods/barcode-print-e60": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-barcode-print-4-e-3-5b2"
+  },
+  "/docs/knowledge/goods/batch-set-e79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-batch-set-7-cb-026"
+  },
+  "/docs/knowledge/goods/batch-tracking-052": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-batch-tracking-232-847"
+  },
+  "/docs/knowledge/goods/goods-add-28e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-goods-add-700-c01"
+  },
+  "/docs/knowledge/goods/pricelist-add-2a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-pricelist-add-662-5a1"
+  },
+  "/docs/knowledge/goods/purchase-price-dd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-purchase-priceb-96-ed5"
+  },
+  "/docs/knowledge/purchase/-38d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-006-3d6"
+  },
+  "/docs/knowledge/purchase/order-add-8bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-order-addfa-6-01d"
+  },
+  "/docs/knowledge/purchase/order-purchase-b8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-order-purchaseee-3-7f7"
+  },
+  "/docs/knowledge/purchase/purchase-add-28e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-purchase-add-487-a73"
+  },
+  "/docs/knowledge/purchase/purchase-price-7c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-purchase-price-942-912"
+  },
+  "/docs/knowledge/purchase/supplier-add-a12": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-supplier-addee-3-ccc"
   },
   "/docs/overview/product-overview-913": {
     "__comp": "__comp---theme-doc-item-178-a40",

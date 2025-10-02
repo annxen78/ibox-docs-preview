@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Инструкции по работе с системой",
-    "permalink": "/docs/knowledge/"
+    "title": "Создание закупки",
+    "permalink": "/docs/knowledge/purchase/purchase-add"
   },
   "next": {
     "title": "Материалы для внедрения iBox",

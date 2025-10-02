@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '2fc'),
+    component: ComponentCreator('/docs', 'ec3'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd05'),
+        component: ComponentCreator('/docs', '384'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '589'),
+            component: ComponentCreator('/docs', 'bdf'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -149,6 +149,132 @@ export default [
               {
                 path: '/docs/knowledge/',
                 component: ComponentCreator('/docs/knowledge/', 'd37'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/access/',
+                component: ComponentCreator('/docs/knowledge/access/', 'e15'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/access/access-change',
+                component: ComponentCreator('/docs/knowledge/access/access-change', '814'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/access/access-role',
+                component: ComponentCreator('/docs/knowledge/access/access-role', 'eb2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/access/access-team',
+                component: ComponentCreator('/docs/knowledge/access/access-team', '5c4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/access/access-workplace',
+                component: ComponentCreator('/docs/knowledge/access/access-workplace', 'c2e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/data/data-access',
+                component: ComponentCreator('/docs/knowledge/data/data-access', '4f7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/data/data-security',
+                component: ComponentCreator('/docs/knowledge/data/data-security', '968'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/',
+                component: ComponentCreator('/docs/knowledge/goods/', '23f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/barcode',
+                component: ComponentCreator('/docs/knowledge/goods/barcode', '244'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/barcode-print',
+                component: ComponentCreator('/docs/knowledge/goods/barcode-print', 'e60'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/batch-set',
+                component: ComponentCreator('/docs/knowledge/goods/batch-set', 'e79'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/batch-tracking',
+                component: ComponentCreator('/docs/knowledge/goods/batch-tracking', '052'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/goods-add',
+                component: ComponentCreator('/docs/knowledge/goods/goods-add', '28e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/pricelist-add',
+                component: ComponentCreator('/docs/knowledge/goods/pricelist-add', '2a6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/purchase-price',
+                component: ComponentCreator('/docs/knowledge/goods/purchase-price', 'dd8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/purchase/',
+                component: ComponentCreator('/docs/knowledge/purchase/', '38d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/purchase/order-add',
+                component: ComponentCreator('/docs/knowledge/purchase/order-add', '8bc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/purchase/order-purchase',
+                component: ComponentCreator('/docs/knowledge/purchase/order-purchase', 'b8c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/purchase/purchase-add',
+                component: ComponentCreator('/docs/knowledge/purchase/purchase-add', '28e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/purchase/purchase-price',
+                component: ComponentCreator('/docs/knowledge/purchase/purchase-price', '7c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/purchase/supplier-add',
+                component: ComponentCreator('/docs/knowledge/purchase/supplier-add', 'a12'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

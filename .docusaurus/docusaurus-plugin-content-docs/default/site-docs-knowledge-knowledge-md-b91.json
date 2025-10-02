@@ -1,7 +1,7 @@
 {
   "id": "knowledge/knowledge",
   "title": "База знаний",
-  "description": "Полезные статьи и инструкции по работе с системой.",
+  "description": "Инструкции по работе с функционалом iBox — от штрихкодов до настройки шаблонов и работы с Telegram-ботом.",
   "source": "@site/docs/knowledge/knowledge.md",
   "sourceDirName": "knowledge",
   "slug": "/knowledge/",
@@ -24,7 +24,7 @@
     "permalink": "/docs/quick-start/part3-finance"
   },
   "next": {
-    "title": "Ответы на вопросы пользователей",
-    "permalink": "/docs/faq/"
+    "title": "Где хранятся данные в iBOX",
+    "permalink": "/docs/knowledge/data/data-security"
   }
 }

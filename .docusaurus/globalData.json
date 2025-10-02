@@ -25,8 +25,113 @@
               "path": "/docs/intro"
             },
             {
+              "id": "knowledge/access/access",
+              "path": "/docs/knowledge/access/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/access/access-change",
+              "path": "/docs/knowledge/access/access-change",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/access/access-role",
+              "path": "/docs/knowledge/access/access-role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/access/access-team",
+              "path": "/docs/knowledge/access/access-team",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/access/access-workplace",
+              "path": "/docs/knowledge/access/access-workplace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/data/data-access",
+              "path": "/docs/knowledge/data/data-access",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/data/data-security",
+              "path": "/docs/knowledge/data/data-security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/barcode",
+              "path": "/docs/knowledge/goods/barcode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/barcode-print",
+              "path": "/docs/knowledge/goods/barcode-print",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/batch-set",
+              "path": "/docs/knowledge/goods/batch-set",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/batch-tracking",
+              "path": "/docs/knowledge/goods/batch-tracking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/goods",
+              "path": "/docs/knowledge/goods/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/goods-add",
+              "path": "/docs/knowledge/goods/goods-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/pricelist-add",
+              "path": "/docs/knowledge/goods/pricelist-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/purchase-price",
+              "path": "/docs/knowledge/goods/purchase-price",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/knowledge",
               "path": "/docs/knowledge/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/purchase/order-add",
+              "path": "/docs/knowledge/purchase/order-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/purchase/order-purchase",
+              "path": "/docs/knowledge/purchase/order-purchase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/purchase/purchase",
+              "path": "/docs/knowledge/purchase/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/purchase/purchase-add",
+              "path": "/docs/knowledge/purchase/purchase-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/purchase/purchase-price",
+              "path": "/docs/knowledge/purchase/purchase-price",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/purchase/supplier-add",
+              "path": "/docs/knowledge/purchase/supplier-add",
               "sidebar": "tutorialSidebar"
             },
             {
