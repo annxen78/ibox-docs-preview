@@ -256,17 +256,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ec3": {
+  "/docs-0cf": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-384": {
+  "/docs-104": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-bdf": {
+  "/docs-fa7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -305,6 +305,38 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-access-access-workplace-25-c-a02"
   },
+  "/docs/knowledge/clients/clients-orders-8ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-clients-orders-17-c-0f8"
+  },
+  "/docs/knowledge/clients/item-reserve-430": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-item-reservee-13-e7a"
+  },
+  "/docs/knowledge/clients/order-add-673": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-order-add-12-c-aaa"
+  },
+  "/docs/knowledge/clients/orders-shipments-121": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-orders-shipmentsb-0-e-9a7"
+  },
+  "/docs/knowledge/clients/return-71b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-return-807-945"
+  },
+  "/docs/knowledge/clients/routes-06a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-routes-624-920"
+  },
+  "/docs/knowledge/clients/shipment-add-c94": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-shipment-addb-0-c-3f1"
+  },
+  "/docs/knowledge/clients/telegram-888": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-clients-telegram-1-b-0-910"
+  },
   "/docs/knowledge/data/data-access-4f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-data-data-access-9-a-6-667"
@@ -312,6 +344,22 @@
   "/docs/knowledge/data/data-security-968": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-data-data-security-6-dc-523"
+  },
+  "/docs/knowledge/finance/balance-adjustment-d79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-balance-adjustmentf-76-1e4"
+  },
+  "/docs/knowledge/finance/cash-register-a81": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-cash-register-8-cc-490"
+  },
+  "/docs/knowledge/finance/payment-add-c59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-payment-add-548-269"
+  },
+  "/docs/knowledge/finance/salary-payroll-bdf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-salary-payroll-790-5ea"
   },
   "/docs/knowledge/goods/-23f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -368,6 +416,30 @@
   "/docs/knowledge/purchase/supplier-add-a12": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-purchase-supplier-addee-3-ccc"
+  },
+  "/docs/knowledge/purchase/supplier-return-ac6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-purchase-supplier-return-91-e-b66"
+  },
+  "/docs/knowledge/reports/dashboard-67b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-reports-dashboard-0-ae-3d5"
+  },
+  "/docs/knowledge/warehouse/inventory-626": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-inventoryce-2-dfd"
+  },
+  "/docs/knowledge/warehouse/new-transfer-937": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-new-transferfae-081"
+  },
+  "/docs/knowledge/warehouse/stock-adjustment-0fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-stock-adjustment-5-d-3-d02"
+  },
+  "/docs/knowledge/warehouse/stock-transfer-ddb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-warehouse-stock-transferc-8-e-a87"
   },
   "/docs/overview/product-overview-913": {
     "__comp": "__comp---theme-doc-item-178-a40",

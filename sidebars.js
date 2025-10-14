@@ -67,7 +67,52 @@ module.exports = {
         'knowledge/purchase/order-purchase',
         'knowledge/purchase/order-add',
         'knowledge/purchase/purchase-add',
+        'knowledge/purchase/supplier-return',
 
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Клиенты и заказы',
+      items: [            
+        'knowledge/clients/clients-orders',
+        'knowledge/clients/order-add',
+        'knowledge/clients/item-reserve',
+        'knowledge/clients/shipment-add',
+        'knowledge/clients/routes',
+        'knowledge/clients/orders-shipments',
+        'knowledge/clients/return',
+        'knowledge/clients/telegram',
+
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Склад',
+      items: [
+        'knowledge/warehouse/inventory',
+        'knowledge/warehouse/stock-adjustment',
+        'knowledge/warehouse/stock-transfer',
+        'knowledge/warehouse/new-transfer',
+
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Финансы',
+      items: [
+        'knowledge/finance/cash-register',
+        'knowledge/finance/payment-add',
+        'knowledge/finance/salary-payroll',
+        'knowledge/finance/balance-adjustment',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Отчеты',
+      items: [
+        'knowledge/reports/dashboard',
+        
       ],
     },
   ],

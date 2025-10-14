@@ -50,6 +50,46 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/clients/clients-orders",
+              "path": "/docs/knowledge/clients/clients-orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/clients/item-reserve",
+              "path": "/docs/knowledge/clients/item-reserve",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/clients/order-add",
+              "path": "/docs/knowledge/clients/order-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/clients/orders-shipments",
+              "path": "/docs/knowledge/clients/orders-shipments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/clients/return",
+              "path": "/docs/knowledge/clients/return",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/clients/routes",
+              "path": "/docs/knowledge/clients/routes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/clients/shipment-add",
+              "path": "/docs/knowledge/clients/shipment-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/clients/telegram",
+              "path": "/docs/knowledge/clients/telegram",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/data/data-access",
               "path": "/docs/knowledge/data/data-access",
               "sidebar": "tutorialSidebar"
@@ -57,6 +97,26 @@
             {
               "id": "knowledge/data/data-security",
               "path": "/docs/knowledge/data/data-security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/finance/balance-adjustment",
+              "path": "/docs/knowledge/finance/balance-adjustment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/finance/cash-register",
+              "path": "/docs/knowledge/finance/cash-register",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/finance/payment-add",
+              "path": "/docs/knowledge/finance/payment-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/finance/salary-payroll",
+              "path": "/docs/knowledge/finance/salary-payroll",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -132,6 +192,36 @@
             {
               "id": "knowledge/purchase/supplier-add",
               "path": "/docs/knowledge/purchase/supplier-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/purchase/supplier-return",
+              "path": "/docs/knowledge/purchase/supplier-return",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/reports/dashboard",
+              "path": "/docs/knowledge/reports/dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/warehouse/inventory",
+              "path": "/docs/knowledge/warehouse/inventory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/warehouse/new-transfer",
+              "path": "/docs/knowledge/warehouse/new-transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/warehouse/stock-adjustment",
+              "path": "/docs/knowledge/warehouse/stock-adjustment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/warehouse/stock-transfer",
+              "path": "/docs/knowledge/warehouse/stock-transfer",
               "sidebar": "tutorialSidebar"
             },
             {

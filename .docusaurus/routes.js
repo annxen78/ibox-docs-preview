@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ec3'),
+    component: ComponentCreator('/docs', '0cf'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '384'),
+        component: ComponentCreator('/docs', '104'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'bdf'),
+            component: ComponentCreator('/docs', 'fa7'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -183,6 +183,54 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/knowledge/clients/clients-orders',
+                component: ComponentCreator('/docs/knowledge/clients/clients-orders', '8ae'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/clients/item-reserve',
+                component: ComponentCreator('/docs/knowledge/clients/item-reserve', '430'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/clients/order-add',
+                component: ComponentCreator('/docs/knowledge/clients/order-add', '673'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/clients/orders-shipments',
+                component: ComponentCreator('/docs/knowledge/clients/orders-shipments', '121'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/clients/return',
+                component: ComponentCreator('/docs/knowledge/clients/return', '71b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/clients/routes',
+                component: ComponentCreator('/docs/knowledge/clients/routes', '06a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/clients/shipment-add',
+                component: ComponentCreator('/docs/knowledge/clients/shipment-add', 'c94'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/clients/telegram',
+                component: ComponentCreator('/docs/knowledge/clients/telegram', '888'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/knowledge/data/data-access',
                 component: ComponentCreator('/docs/knowledge/data/data-access', '4f7'),
                 exact: true,
@@ -191,6 +239,30 @@ export default [
               {
                 path: '/docs/knowledge/data/data-security',
                 component: ComponentCreator('/docs/knowledge/data/data-security', '968'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/finance/balance-adjustment',
+                component: ComponentCreator('/docs/knowledge/finance/balance-adjustment', 'd79'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/finance/cash-register',
+                component: ComponentCreator('/docs/knowledge/finance/cash-register', 'a81'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/finance/payment-add',
+                component: ComponentCreator('/docs/knowledge/finance/payment-add', 'c59'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/finance/salary-payroll',
+                component: ComponentCreator('/docs/knowledge/finance/salary-payroll', 'bdf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -275,6 +347,42 @@ export default [
               {
                 path: '/docs/knowledge/purchase/supplier-add',
                 component: ComponentCreator('/docs/knowledge/purchase/supplier-add', 'a12'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/purchase/supplier-return',
+                component: ComponentCreator('/docs/knowledge/purchase/supplier-return', 'ac6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/reports/dashboard',
+                component: ComponentCreator('/docs/knowledge/reports/dashboard', '67b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/warehouse/inventory',
+                component: ComponentCreator('/docs/knowledge/warehouse/inventory', '626'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/warehouse/new-transfer',
+                component: ComponentCreator('/docs/knowledge/warehouse/new-transfer', '937'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/warehouse/stock-adjustment',
+                component: ComponentCreator('/docs/knowledge/warehouse/stock-adjustment', '0fc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/warehouse/stock-transfer',
+                component: ComponentCreator('/docs/knowledge/warehouse/stock-transfer', 'ddb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
