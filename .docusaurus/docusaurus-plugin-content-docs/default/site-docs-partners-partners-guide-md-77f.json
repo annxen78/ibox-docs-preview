@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Ответы на вопросы пользователей",
-    "permalink": "/docs/faq/"
+    "title": "Управление доступами и ролями",
+    "permalink": "/docs/faq/access-control"
   },
   "next": {
     "title": "Редакционная политика",

@@ -16,8 +16,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "faq/access-control",
+              "path": "/docs/faq/access-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "faq/faq",
               "path": "/docs/faq/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/start",
+              "path": "/docs/faq/start",
               "sidebar": "tutorialSidebar"
             },
             {

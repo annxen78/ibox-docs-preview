@@ -131,7 +131,11 @@ module.exports = {
     {
       type: 'category',
       label: '4. FAQ',
-      items: ['faq/faq'],
+      items: [
+        'faq/faq',
+        'faq/start',
+        'faq/access-control',
+      ],
     },
     {
       type: 'category',

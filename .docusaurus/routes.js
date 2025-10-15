@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '492'),
+    component: ComponentCreator('/docs', '364'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b76'),
+        component: ComponentCreator('/docs', '55a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ffa'),
+            component: ComponentCreator('/docs', 'e65'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -133,6 +133,18 @@ export default [
               {
                 path: '/docs/faq/',
                 component: ComponentCreator('/docs/faq/', 'dcc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/faq/access-control',
+                component: ComponentCreator('/docs/faq/access-control', '305'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/faq/start',
+                component: ComponentCreator('/docs/faq/start', '2d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
