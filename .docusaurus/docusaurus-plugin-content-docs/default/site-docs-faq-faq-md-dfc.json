@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Дашборд iBox",
-    "permalink": "/docs/knowledge/reports/dashboard"
+    "title": "Анализ остатков на складе",
+    "permalink": "/docs/knowledge/reports/stock-analysis"
   },
   "next": {
     "title": "Материалы для внедрения iBox",

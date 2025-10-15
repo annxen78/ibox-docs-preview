@@ -205,6 +205,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/reports/goods-profit",
+              "path": "/docs/knowledge/reports/goods-profit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/reports/sales-reports",
+              "path": "/docs/knowledge/reports/sales-reports",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/reports/stock-analysis",
+              "path": "/docs/knowledge/reports/stock-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/warehouse/inventory",
               "path": "/docs/knowledge/warehouse/inventory",
               "sidebar": "tutorialSidebar"

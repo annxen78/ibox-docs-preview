@@ -112,7 +112,9 @@ module.exports = {
       label: 'Отчеты',
       items: [
         'knowledge/reports/dashboard',
-        
+        'knowledge/reports/sales-reports',
+        'knowledge/reports/goods-profit',
+        'knowledge/reports/stock-analysis',
       ],
     },
   ],

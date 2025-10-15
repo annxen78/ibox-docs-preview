@@ -108,26 +108,21 @@ export default [
     exact: true
   },
   {
-    path: '/index.backup',
-    component: ComponentCreator('/index.backup', 'c9c'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '0cf'),
+    component: ComponentCreator('/docs', '72d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '104'),
+        component: ComponentCreator('/docs', 'c18'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'fa7'),
+            component: ComponentCreator('/docs', '92e'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -359,6 +354,24 @@ export default [
               {
                 path: '/docs/knowledge/reports/dashboard',
                 component: ComponentCreator('/docs/knowledge/reports/dashboard', '67b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/reports/goods-profit',
+                component: ComponentCreator('/docs/knowledge/reports/goods-profit', '447'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/reports/sales-reports',
+                component: ComponentCreator('/docs/knowledge/reports/sales-reports', 'b7d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/reports/stock-analysis',
+                component: ComponentCreator('/docs/knowledge/reports/stock-analysis', '35c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
