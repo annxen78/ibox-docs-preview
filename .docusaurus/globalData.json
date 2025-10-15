@@ -220,6 +220,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/settings/default-settings",
+              "path": "/docs/knowledge/settings/default-settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/settings/functional",
+              "path": "/docs/knowledge/settings/functional",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/settings/organizations",
+              "path": "/docs/knowledge/settings/organizations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/warehouse/inventory",
               "path": "/docs/knowledge/warehouse/inventory",
               "sidebar": "tutorialSidebar"

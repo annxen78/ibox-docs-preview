@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '72d'),
+    component: ComponentCreator('/docs', '492'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c18'),
+        component: ComponentCreator('/docs', 'b76'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '92e'),
+            component: ComponentCreator('/docs', 'ffa'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -372,6 +372,24 @@ export default [
               {
                 path: '/docs/knowledge/reports/stock-analysis',
                 component: ComponentCreator('/docs/knowledge/reports/stock-analysis', '35c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/settings/default-settings',
+                component: ComponentCreator('/docs/knowledge/settings/default-settings', '345'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/settings/functional',
+                component: ComponentCreator('/docs/knowledge/settings/functional', '3c1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/settings/organizations',
+                component: ComponentCreator('/docs/knowledge/settings/organizations', 'd24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

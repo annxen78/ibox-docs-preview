@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Анализ остатков на складе",
-    "permalink": "/docs/knowledge/reports/stock-analysis"
+    "title": "Организации и филиалы",
+    "permalink": "/docs/knowledge/settings/organizations"
   },
   "next": {
     "title": "Материалы для внедрения iBox",

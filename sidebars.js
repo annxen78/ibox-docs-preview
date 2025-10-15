@@ -117,6 +117,15 @@ module.exports = {
         'knowledge/reports/stock-analysis',
       ],
     },
+    {
+      type: 'category',
+      label: 'Основные настройки в iBOX',
+      items: [
+        'knowledge/settings/default-settings',
+        'knowledge/settings/functional',
+        'knowledge/settings/organizations',
+      ],
+    },
   ],
 },
     {
