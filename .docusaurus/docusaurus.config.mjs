@@ -86,11 +86,6 @@ export default {
           "label": "Документация"
         },
         {
-          "to": "/blog",
-          "label": "Блог",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"
