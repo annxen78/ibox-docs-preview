@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '364'),
+    component: ComponentCreator('/docs', '074'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '55a'),
+        component: ComponentCreator('/docs', '257'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e65'),
+            component: ComponentCreator('/docs', '4b9'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -437,9 +437,8 @@ export default [
               },
               {
                 path: '/docs/partners/partners-guide',
-                component: ComponentCreator('/docs/partners/partners-guide', 'cbe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/partners/partners-guide', '738'),
+                exact: true
               },
               {
                 path: '/docs/quick-start/',

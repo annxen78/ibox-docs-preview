@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Материалы для внедрения iBox",
-    "permalink": "/docs/partners/partners-guide"
+    "title": "Управление доступами и ролями",
+    "permalink": "/docs/faq/access-control"
   },
   "next": {
     "title": "Стайлгайд",

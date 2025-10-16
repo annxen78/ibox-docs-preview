@@ -17,14 +17,5 @@
     "title": "Для партнеров и интеграторов",
     "sidebar_label": "Материалы для внедрения iBox",
     "sidebar_position": 5
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Управление доступами и ролями",
-    "permalink": "/docs/faq/access-control"
-  },
-  "next": {
-    "title": "Редакционная политика",
-    "permalink": "/docs/editorial-policy"
   }
 }

@@ -271,8 +271,7 @@
             },
             {
               "id": "partners/partners-guide",
-              "path": "/docs/partners/partners-guide",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/partners/partners-guide"
             },
             {
               "id": "quick-start/part1-registration",

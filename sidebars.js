@@ -137,14 +137,14 @@ module.exports = {
         'faq/access-control',
       ],
     },
+    //{
+      //type: 'category',
+      //label: '5. Партнерам и интеграторам',
+      //items: ['partners/partners-guide'],
+    //},
     {
       type: 'category',
-      label: '5. Партнерам и интеграторам',
-      items: ['partners/partners-guide'],
-    },
-    {
-      type: 'category',
-      label: '6. Для авторов',
+      label: '5. Для авторов',
       items: [
         'editorial-policy',
         'wiki-style',
