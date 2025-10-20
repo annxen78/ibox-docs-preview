@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '074'),
+    component: ComponentCreator('/docs', '0eb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '257'),
+        component: ComponentCreator('/docs', '386'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '4b9'),
+            component: ComponentCreator('/docs', 'b29'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -312,6 +312,18 @@ export default [
               {
                 path: '/docs/knowledge/goods/pricelist-add',
                 component: ComponentCreator('/docs/knowledge/goods/pricelist-add', '2a6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/pricelist-delete',
+                component: ComponentCreator('/docs/knowledge/goods/pricelist-delete', '8ca'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/pricelist-edit',
+                component: ComponentCreator('/docs/knowledge/goods/pricelist-edit', '1d1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

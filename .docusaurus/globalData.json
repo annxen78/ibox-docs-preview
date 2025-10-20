@@ -165,6 +165,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/goods/pricelist-delete",
+              "path": "/docs/knowledge/goods/pricelist-delete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/goods/pricelist-edit",
+              "path": "/docs/knowledge/goods/pricelist-edit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/goods/purchase-price",
               "path": "/docs/knowledge/goods/purchase-price",
               "sidebar": "tutorialSidebar"

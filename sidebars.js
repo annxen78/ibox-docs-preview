@@ -53,6 +53,8 @@ module.exports = {
         'knowledge/goods/batch-tracking',
         'knowledge/goods/batch-set',
         'knowledge/goods/pricelist-add',
+        'knowledge/goods/pricelist-edit',
+        'knowledge/goods/pricelist-delete',
         'knowledge/goods/barcode',
         'knowledge/goods/barcode-print',
       ],
