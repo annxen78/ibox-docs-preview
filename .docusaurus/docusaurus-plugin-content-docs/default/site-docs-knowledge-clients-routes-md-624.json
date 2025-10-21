@@ -1,7 +1,7 @@
 {
   "id": "knowledge/clients/routes",
   "title": " Маршруты для клиентов",
-  "description": "Маршрут — это как территория, к которой вы добавляете клиентов для регулярного посещения вашими торговыми агентами.",
+  "description": "Маршрут в iBox — это способ объединить клиентов в группу, чтобы ограничить к ним доступ и упростить работу торговых представителей.",
   "source": "@site/docs/knowledge/clients/routes.md",
   "sourceDirName": "knowledge/clients",
   "slug": "/knowledge/clients/routes",

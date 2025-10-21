@@ -86,6 +86,11 @@ export default {
           "label": "Документация"
         },
         {
+          "to": "/blog",
+          "label": "Что нового в iBOX",
+          "position": "left"
+        },
+        {
           "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"

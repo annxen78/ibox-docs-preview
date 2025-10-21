@@ -39,7 +39,12 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    component: ComponentCreator('/blog', 'd08'),
+    exact: true
+  },
+  {
+    path: '/blog/',
+    component: ComponentCreator('/blog/', 'd1a'),
     exact: true
   },
   {
@@ -54,27 +59,17 @@ export default [
   },
   {
     path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '495'),
     exact: true
   },
   {
     path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    component: ComponentCreator('/blog/authors/yangshun', '7c6'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/blog/release-3-4',
+    component: ComponentCreator('/blog/release-3-4', 'b0e'),
     exact: true
   },
   {
@@ -83,28 +78,13 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    path: '/blog/tags/обновление',
+    component: ComponentCreator('/blog/tags/обновление', '9d7'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/blog/tags/релиз',
+    component: ComponentCreator('/blog/tags/релиз', 'e32'),
     exact: true
   },
   {
@@ -114,15 +94,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '0eb'),
+    component: ComponentCreator('/docs', 'b8c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '386'),
+        component: ComponentCreator('/docs', '5d3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b29'),
+            component: ComponentCreator('/docs', '3aa'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -204,6 +184,12 @@ export default [
               {
                 path: '/docs/knowledge/clients/order-add',
                 component: ComponentCreator('/docs/knowledge/clients/order-add', '673'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/clients/order-status',
+                component: ComponentCreator('/docs/knowledge/clients/order-status', 'cea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

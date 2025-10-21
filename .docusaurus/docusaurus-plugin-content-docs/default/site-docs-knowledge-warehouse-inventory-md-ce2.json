@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Уведомления и заказы через Telegram",
-    "permalink": "/docs/knowledge/clients/telegram"
+    "title": "Статус заказа в iBOX",
+    "permalink": "/docs/knowledge/clients/order-status"
   },
   "next": {
     "title": "Корректировка остатков",

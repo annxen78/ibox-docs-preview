@@ -1,7 +1,7 @@
 {
   "id": "knowledge/clients/shipment-add",
   "title": "Создание отгрузки",
-  "description": "1. Перейдите Продажи → Отгрузки и нажмите на + — появится окно для добавления информации",
+  "description": "Отгрузка фиксирует факт передачи товара клиенту - с нее начинается контроль дебиторской задоженности и работа с оплатами.",
   "source": "@site/docs/knowledge/clients/shipment-add.md",
   "sourceDirName": "knowledge/clients",
   "slug": "/knowledge/clients/shipment-add",

@@ -85,6 +85,7 @@ module.exports = {
         'knowledge/clients/orders-shipments',
         'knowledge/clients/return',
         'knowledge/clients/telegram',
+        'knowledge/clients/order-status',
 
       ],
     },

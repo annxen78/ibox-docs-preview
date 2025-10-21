@@ -75,6 +75,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/clients/order-status",
+              "path": "/docs/knowledge/clients/order-status",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/clients/orders-shipments",
               "path": "/docs/knowledge/clients/orders-shipments",
               "sidebar": "tutorialSidebar"

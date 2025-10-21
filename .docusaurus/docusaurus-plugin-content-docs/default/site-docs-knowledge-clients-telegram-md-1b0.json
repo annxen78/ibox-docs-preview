@@ -24,7 +24,7 @@
     "permalink": "/docs/knowledge/clients/return"
   },
   "next": {
-    "title": "Управление остатками",
-    "permalink": "/docs/knowledge/warehouse/inventory"
+    "title": "Статус заказа в iBOX",
+    "permalink": "/docs/knowledge/clients/order-status"
   }
 }
