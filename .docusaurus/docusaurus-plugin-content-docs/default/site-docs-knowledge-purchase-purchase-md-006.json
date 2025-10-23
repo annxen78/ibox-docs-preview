@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Печать штрихкода",
-    "permalink": "/docs/knowledge/goods/barcode-print"
+    "title": "Минимальная цена товара",
+    "permalink": "/docs/knowledge/goods/minimum-price"
   },
   "next": {
     "title": "Добавление поставщиков",

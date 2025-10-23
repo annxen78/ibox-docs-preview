@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b8c'),
+    component: ComponentCreator('/docs', '72e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '5d3'),
+        component: ComponentCreator('/docs', '9b2'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '3aa'),
+            component: ComponentCreator('/docs', 'b0c'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -292,6 +292,12 @@ export default [
               {
                 path: '/docs/knowledge/goods/goods-add',
                 component: ComponentCreator('/docs/knowledge/goods/goods-add', '28e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/minimum-price',
+                component: ComponentCreator('/docs/knowledge/goods/minimum-price', '1eb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

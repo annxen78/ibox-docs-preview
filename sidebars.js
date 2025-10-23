@@ -57,6 +57,7 @@ module.exports = {
         'knowledge/goods/pricelist-delete',
         'knowledge/goods/barcode',
         'knowledge/goods/barcode-print',
+        'knowledge/goods/minimum-price',
       ],
     },
     {

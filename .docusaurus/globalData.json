@@ -165,6 +165,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/goods/minimum-price",
+              "path": "/docs/knowledge/goods/minimum-price",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/goods/pricelist-add",
               "path": "/docs/knowledge/goods/pricelist-add",
               "sidebar": "tutorialSidebar"
