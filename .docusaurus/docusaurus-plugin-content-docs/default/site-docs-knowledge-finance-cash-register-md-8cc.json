@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Создание перемещения",
-    "permalink": "/docs/knowledge/warehouse/new-transfer"
+    "title": "Техкарта",
+    "permalink": "/docs/knowledge/factory/bom"
   },
   "next": {
     "title": "Добавление оплаты",

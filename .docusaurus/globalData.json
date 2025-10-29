@@ -115,6 +115,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/factory/bom",
+              "path": "/docs/knowledge/factory/bom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/factory/factory",
+              "path": "/docs/knowledge/factory/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/finance/balance-adjustment",
               "path": "/docs/knowledge/finance/balance-adjustment",
               "sidebar": "tutorialSidebar"

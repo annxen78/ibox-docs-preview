@@ -156,17 +156,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-72e": {
+  "/docs-c4c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-9b2": {
+  "/docs-d5f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-b0c": {
+  "/docs-037": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -256,6 +256,14 @@
   "/docs/knowledge/data/data-security-968": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-data-data-security-6-dc-523"
+  },
+  "/docs/knowledge/factory/-765": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-factory-5-c-3-bd7"
+  },
+  "/docs/knowledge/factory/bom-d2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-factory-bom-519-ef2"
   },
   "/docs/knowledge/finance/balance-adjustment-d79": {
     "__comp": "__comp---theme-doc-item-178-a40",

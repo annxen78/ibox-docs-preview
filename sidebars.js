@@ -103,6 +103,15 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Фабрика',
+      items: [
+        'knowledge/factory/factory',
+        'knowledge/factory/bom',
+
+      ],
+    },
+    {
+      type: 'category',
       label: 'Финансы',
       items: [
         'knowledge/finance/cash-register',
