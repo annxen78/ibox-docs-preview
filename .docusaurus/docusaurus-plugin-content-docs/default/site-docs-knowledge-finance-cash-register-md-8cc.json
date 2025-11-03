@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Техкарта",
-    "permalink": "/docs/knowledge/factory/bom"
+    "title": "Объем сборки",
+    "permalink": "/docs/knowledge/factory/assembly-volume"
   },
   "next": {
     "title": "Добавление оплаты",

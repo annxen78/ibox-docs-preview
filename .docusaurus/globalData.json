@@ -115,6 +115,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/factory/assembly",
+              "path": "/docs/knowledge/factory/assembly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/factory/assembly-manual",
+              "path": "/docs/knowledge/factory/assembly-manual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/factory/assembly-proportions",
+              "path": "/docs/knowledge/factory/assembly-proportions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/factory/assembly-volume",
+              "path": "/docs/knowledge/factory/assembly-volume",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/factory/bom",
               "path": "/docs/knowledge/factory/bom",
               "sidebar": "tutorialSidebar"

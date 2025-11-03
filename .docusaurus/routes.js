@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c4c'),
+    component: ComponentCreator('/docs', 'b04'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd5f'),
+        component: ComponentCreator('/docs', '7a5'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '037'),
+            component: ComponentCreator('/docs', '73b'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -238,6 +238,30 @@ export default [
               {
                 path: '/docs/knowledge/factory/',
                 component: ComponentCreator('/docs/knowledge/factory/', '765'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/factory/assembly',
+                component: ComponentCreator('/docs/knowledge/factory/assembly', '447'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/factory/assembly-manual',
+                component: ComponentCreator('/docs/knowledge/factory/assembly-manual', 'b47'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/factory/assembly-proportions',
+                component: ComponentCreator('/docs/knowledge/factory/assembly-proportions', '730'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/factory/assembly-volume',
+                component: ComponentCreator('/docs/knowledge/factory/assembly-volume', 'cf4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

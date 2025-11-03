@@ -107,6 +107,10 @@ module.exports = {
       items: [
         'knowledge/factory/factory',
         'knowledge/factory/bom',
+        'knowledge/factory/assembly',
+        'knowledge/factory/assembly-manual',
+        'knowledge/factory/assembly-proportions',
+        'knowledge/factory/assembly-volume',
 
       ],
     },
