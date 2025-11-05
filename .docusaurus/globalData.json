@@ -60,8 +60,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/clients/clients-orders",
-              "path": "/docs/knowledge/clients/clients-orders",
+              "id": "knowledge/clients/clients-add",
+              "path": "/docs/knowledge/clients/clients-add",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -185,13 +185,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/goods/goods",
-              "path": "/docs/knowledge/goods/",
+              "id": "knowledge/goods/goods-add",
+              "path": "/docs/knowledge/goods/goods-add",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "knowledge/goods/goods-add",
-              "path": "/docs/knowledge/goods/goods-add",
+              "id": "knowledge/goods/goods-organizations",
+              "path": "/docs/knowledge/goods/goods-organizations",
               "sidebar": "tutorialSidebar"
             },
             {

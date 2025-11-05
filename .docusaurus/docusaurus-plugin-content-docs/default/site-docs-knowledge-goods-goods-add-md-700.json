@@ -11,20 +11,20 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/goods/goods-add.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 3,
   "frontMatter": {
     "id": "goods-add",
     "title": "Добавление товара вручную",
     "sidebar_label": "Добавление товара",
-    "sidebar_position": 4
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Работа с товарами и ценами в iBOX",
-    "permalink": "/docs/knowledge/goods/"
+    "title": "Как ограничить доступ сотруднику",
+    "permalink": "/docs/knowledge/access/access-change"
   },
   "next": {
-    "title": "Закупочная цена",
-    "permalink": "/docs/knowledge/goods/purchase-price"
+    "title": "Добавление товаров в несколько организаций",
+    "permalink": "/docs/knowledge/goods/goods-organizations"
   }
 }

@@ -156,17 +156,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-b04": {
+  "/docs-a62": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-7a5": {
+  "/docs-871": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-73b": {
+  "/docs-1c9": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -213,9 +213,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-access-access-workplace-25-c-a02"
   },
-  "/docs/knowledge/clients/clients-orders-8ae": {
+  "/docs/knowledge/clients/clients-add-739": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-clients-clients-orders-17-c-0f8"
+    "content": "content---docs-knowledge-clients-clients-add-7-b-3-303"
   },
   "/docs/knowledge/clients/item-reserve-430": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -297,10 +297,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-finance-salary-payroll-790-5ea"
   },
-  "/docs/knowledge/goods/-23f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-goods-014-8c8"
-  },
   "/docs/knowledge/goods/barcode-244": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-goods-barcode-681-bfa"
@@ -320,6 +316,10 @@
   "/docs/knowledge/goods/goods-add-28e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-goods-goods-add-700-c01"
+  },
+  "/docs/knowledge/goods/goods-organizations-328": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-goods-goods-organizationsc-4-e-8c3"
   },
   "/docs/knowledge/goods/minimum-price-1eb": {
     "__comp": "__comp---theme-doc-item-178-a40",

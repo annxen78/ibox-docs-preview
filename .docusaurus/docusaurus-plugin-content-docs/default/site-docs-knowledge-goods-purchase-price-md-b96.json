@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Добавление товара",
-    "permalink": "/docs/knowledge/goods/goods-add"
+    "title": "Добавление товаров в несколько организаций",
+    "permalink": "/docs/knowledge/goods/goods-organizations"
   },
   "next": {
     "title": "Партийный учет в iBOX",

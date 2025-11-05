@@ -2,7 +2,7 @@
 id: goods-add
 title: Добавление товара вручную
 sidebar_label: Добавление товара
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Как добавить товар вручную

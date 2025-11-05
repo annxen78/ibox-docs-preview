@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b04'),
+    component: ComponentCreator('/docs', 'a62'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '7a5'),
+        component: ComponentCreator('/docs', '871'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '73b'),
+            component: ComponentCreator('/docs', '1c9'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -170,8 +170,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/clients/clients-orders',
-                component: ComponentCreator('/docs/knowledge/clients/clients-orders', '8ae'),
+                path: '/docs/knowledge/clients/clients-add',
+                component: ComponentCreator('/docs/knowledge/clients/clients-add', '739'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -296,12 +296,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/knowledge/goods/',
-                component: ComponentCreator('/docs/knowledge/goods/', '23f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/knowledge/goods/barcode',
                 component: ComponentCreator('/docs/knowledge/goods/barcode', '244'),
                 exact: true,
@@ -328,6 +322,12 @@ export default [
               {
                 path: '/docs/knowledge/goods/goods-add',
                 component: ComponentCreator('/docs/knowledge/goods/goods-add', '28e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/goods/goods-organizations',
+                component: ComponentCreator('/docs/knowledge/goods/goods-organizations', '328'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

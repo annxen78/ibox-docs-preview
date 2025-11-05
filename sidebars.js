@@ -46,9 +46,9 @@ module.exports = {
     {
       type: 'category',
       label: 'Товары и цены',
-      items: [            
-        'knowledge/goods/goods',
+      items: [           
         'knowledge/goods/goods-add',
+        'knowledge/goods/goods-organizations',
         'knowledge/goods/purchase-price',
         'knowledge/goods/batch-tracking',
         'knowledge/goods/batch-set',
@@ -78,7 +78,7 @@ module.exports = {
       type: 'category',
       label: 'Клиенты и заказы',
       items: [            
-        'knowledge/clients/clients-orders',
+        'knowledge/clients/clients-add',
         'knowledge/clients/order-add',
         'knowledge/clients/item-reserve',
         'knowledge/clients/shipment-add',
