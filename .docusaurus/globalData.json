@@ -105,6 +105,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/crm/crm-overview",
+              "path": "/docs/knowledge/crm/crm-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/crm/deals",
+              "path": "/docs/knowledge/crm/deals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/crm/tasks",
+              "path": "/docs/knowledge/crm/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/data/data-access",
               "path": "/docs/knowledge/data/data-access",
               "sidebar": "tutorialSidebar"

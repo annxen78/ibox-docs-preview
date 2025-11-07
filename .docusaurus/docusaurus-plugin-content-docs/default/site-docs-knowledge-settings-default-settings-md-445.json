@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Анализ остатков на складе",
-    "permalink": "/docs/knowledge/reports/stock-analysis"
+    "title": "Сделки",
+    "permalink": "/docs/knowledge/crm/deals"
   },
   "next": {
     "title": "Функционал iBOX",

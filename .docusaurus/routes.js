@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a62'),
+    component: ComponentCreator('/docs', 'ddf'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '871'),
+        component: ComponentCreator('/docs', 'ba6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '1c9'),
+            component: ComponentCreator('/docs', '648'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -220,6 +220,24 @@ export default [
               {
                 path: '/docs/knowledge/clients/telegram',
                 component: ComponentCreator('/docs/knowledge/clients/telegram', '888'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/crm/crm-overview',
+                component: ComponentCreator('/docs/knowledge/crm/crm-overview', 'bce'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/crm/deals',
+                component: ComponentCreator('/docs/knowledge/crm/deals', 'b3a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/crm/tasks',
+                component: ComponentCreator('/docs/knowledge/crm/tasks', '5cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

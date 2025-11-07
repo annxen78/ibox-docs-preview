@@ -136,6 +136,16 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'CRM',
+      items: [            
+        'knowledge/crm/crm-overview',
+        'knowledge/crm/tasks',
+        'knowledge/crm/deals',
+
+      ],
+    },
+    {
+      type: 'category',
       label: 'Основные настройки в iBOX',
       items: [
         'knowledge/settings/default-settings',

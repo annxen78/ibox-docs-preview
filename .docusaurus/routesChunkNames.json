@@ -156,17 +156,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a62": {
+  "/docs-ddf": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-871": {
+  "/docs-ba6": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-1c9": {
+  "/docs-648": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -248,6 +248,18 @@
   "/docs/knowledge/clients/telegram-888": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-clients-telegram-1-b-0-910"
+  },
+  "/docs/knowledge/crm/crm-overview-bce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-crm-crm-overview-3-fe-709"
+  },
+  "/docs/knowledge/crm/deals-b3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-crm-deals-3-e-9-248"
+  },
+  "/docs/knowledge/crm/tasks-5cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-crm-tasksb-23-452"
   },
   "/docs/knowledge/data/data-access-4f7": {
     "__comp": "__comp---theme-doc-item-178-a40",

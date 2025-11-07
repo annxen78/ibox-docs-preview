@@ -11,12 +11,12 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge/reports/dashboard.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 21,
+  "sidebarPosition": 26,
   "frontMatter": {
     "id": "dashboard",
     "title": "Дашборд iBox",
     "sidebar_label": "Дашборд iBox",
-    "sidebar_position": 21
+    "sidebar_position": 26
   },
   "sidebar": "tutorialSidebar",
   "previous": {
