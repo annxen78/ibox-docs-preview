@@ -1,7 +1,7 @@
 {
   "id": "knowledge/crm/crm-overview",
   "title": "Обзор CRM-модуля",
-  "description": "Модуль CRM (Customer Relationship Management) помогает управлять взаимоотношениями с клиентами и контролировать продажи, маркетинг и сервис.",
+  "description": "Модуль CRM (Customer Relationship Management) помогает управлять взаимоотношениями с клиентами, контролировать продажи, маркетинг и сервис:",
   "source": "@site/docs/knowledge/crm/crm-overview.md",
   "sourceDirName": "knowledge/crm",
   "slug": "/knowledge/crm/crm-overview",
