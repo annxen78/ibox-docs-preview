@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ddf'),
+    component: ComponentCreator('/docs', '7d5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ba6'),
+        component: ComponentCreator('/docs', '511'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '648'),
+            component: ComponentCreator('/docs', '8a7'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -232,6 +232,12 @@ export default [
               {
                 path: '/docs/knowledge/crm/deals',
                 component: ComponentCreator('/docs/knowledge/crm/deals', 'b3a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/crm/status',
+                component: ComponentCreator('/docs/knowledge/crm/status', '612'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

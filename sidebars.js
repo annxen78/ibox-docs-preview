@@ -141,6 +141,7 @@ module.exports = {
         'knowledge/crm/crm-overview',
         'knowledge/crm/tasks',
         'knowledge/crm/deals',
+        'knowledge/crm/status',
 
       ],
     },

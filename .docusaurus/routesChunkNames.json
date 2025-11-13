@@ -156,17 +156,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ddf": {
+  "/docs-7d5": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-ba6": {
+  "/docs-511": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-648": {
+  "/docs-8a7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -256,6 +256,10 @@
   "/docs/knowledge/crm/deals-b3a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-crm-deals-3-e-9-248"
+  },
+  "/docs/knowledge/crm/status-612": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-crm-statusac-8-857"
   },
   "/docs/knowledge/crm/tasks-5cd": {
     "__comp": "__comp---theme-doc-item-178-a40",

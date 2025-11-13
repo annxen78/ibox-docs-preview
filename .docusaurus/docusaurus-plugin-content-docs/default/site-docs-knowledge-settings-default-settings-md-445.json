@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Сделки",
-    "permalink": "/docs/knowledge/crm/deals"
+    "title": "Статус сделки",
+    "permalink": "/docs/knowledge/crm/status"
   },
   "next": {
     "title": "Функционал iBOX",
