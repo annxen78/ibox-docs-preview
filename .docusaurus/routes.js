@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7d5'),
+    component: ComponentCreator('/docs', 'f2a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '511'),
+        component: ComponentCreator('/docs', '3a3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '8a7'),
+            component: ComponentCreator('/docs', '6a8'),
             routes: [
               {
                 path: '/docs/editorial-policy',
@@ -254,6 +254,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/knowledge/data/data-owner',
+                component: ComponentCreator('/docs/knowledge/data/data-owner', 'f40'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/knowledge/data/data-security',
                 component: ComponentCreator('/docs/knowledge/data/data-security', '968'),
                 exact: true,
@@ -310,6 +316,12 @@ export default [
               {
                 path: '/docs/knowledge/finance/payment-add',
                 component: ComponentCreator('/docs/knowledge/finance/payment-add', 'c59'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/knowledge/finance/payment-purchase',
+                component: ComponentCreator('/docs/knowledge/finance/payment-purchase', 'ac5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

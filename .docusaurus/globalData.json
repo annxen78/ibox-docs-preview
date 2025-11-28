@@ -130,6 +130,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "knowledge/data/data-owner",
+              "path": "/docs/knowledge/data/data-owner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "knowledge/data/data-security",
               "path": "/docs/knowledge/data/data-security",
               "sidebar": "tutorialSidebar"
@@ -177,6 +182,11 @@
             {
               "id": "knowledge/finance/payment-add",
               "path": "/docs/knowledge/finance/payment-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge/finance/payment-purchase",
+              "path": "/docs/knowledge/finance/payment-purchase",
               "sidebar": "tutorialSidebar"
             },
             {

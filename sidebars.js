@@ -29,6 +29,7 @@ module.exports = {
       items: [
         'knowledge/data/data-security',
         'knowledge/data/data-access',
+        'knowledge/data/data-owner',
       ],
     },
     {
@@ -122,6 +123,7 @@ module.exports = {
         'knowledge/finance/payment-add',
         'knowledge/finance/salary-payroll',
         'knowledge/finance/balance-adjustment',
+        'knowledge/finance/payment-purchase',
       ],
     },
     {

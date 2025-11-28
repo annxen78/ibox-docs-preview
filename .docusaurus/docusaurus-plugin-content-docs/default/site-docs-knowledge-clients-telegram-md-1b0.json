@@ -1,7 +1,7 @@
 {
   "id": "knowledge/clients/telegram",
   "title": "Уведомления и заказы через Telegram",
-  "description": "Telegram-бот — это удобный способ оставаться на связи с iBox в режиме реального времени, не заходя в саму программу.",
+  "description": "Телеграм-бот iBox — это удобный способ получать уведомления и работать с заказами, не заходя в систему.",
   "source": "@site/docs/knowledge/clients/telegram.md",
   "sourceDirName": "knowledge/clients",
   "slug": "/knowledge/clients/telegram",

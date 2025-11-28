@@ -156,17 +156,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-7d5": {
+  "/docs-f2a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-511": {
+  "/docs-3a3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-8a7": {
+  "/docs-6a8": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/editorial-policy-d77": {
@@ -269,6 +269,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-data-data-access-9-a-6-667"
   },
+  "/docs/knowledge/data/data-owner-f40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-data-data-owner-582-945"
+  },
   "/docs/knowledge/data/data-security-968": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-data-data-security-6-dc-523"
@@ -308,6 +312,10 @@
   "/docs/knowledge/finance/payment-add-c59": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledge-finance-payment-add-548-269"
+  },
+  "/docs/knowledge/finance/payment-purchase-ac5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-finance-payment-purchase-116-077"
   },
   "/docs/knowledge/finance/salary-payroll-bdf": {
     "__comp": "__comp---theme-doc-item-178-a40",

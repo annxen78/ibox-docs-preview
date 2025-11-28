@@ -1,7 +1,7 @@
 {
   "id": "knowledge/access/access-change",
   "title": "Ограничение доступа",
-  "description": "В iBox есть три способа ограничить доступ сотруднику — в зависимости от цели. Разберем, в каких случаях что выбрать.",
+  "description": "В iBox есть три способа ограничить доступ сотруднику.",
   "source": "@site/docs/knowledge/access/access-change.md",
   "sourceDirName": "knowledge/access",
   "slug": "/knowledge/access/access-change",
